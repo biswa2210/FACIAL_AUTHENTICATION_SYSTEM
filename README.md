@@ -1,9 +1,9 @@
-# HAND-GESTURE-RECOGNITION :star_struck: :+1: :point_up_2: :v: :metal: :point_down:
+# FACIAL AUTHENTICATION SYSTEM :star_struck: :face:
 
 [![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-numpy-ff69b4)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module%20-cv2-success)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/computer-vision-blueviolet)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-math-critical)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/python-3.6-green)](https://shields.io/) 
 <br>
 
-***This new Hand Gesture Recognition Software using Python3 is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+***This new Facial Authentcation System using AIML is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: bbiswa471@gmail.com.** 
 
