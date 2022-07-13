@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-
+#CREATED BY BISWARUP BHATTACHARJEE
 face_classifier = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 def fsc():
