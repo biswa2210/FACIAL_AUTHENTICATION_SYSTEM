@@ -2,6 +2,7 @@
 import cv2
 import numpy as np
 from os import listdir
+#CREATED BY BISWARUP BHATTACHARJEE
 from os.path import isfile, join
 def mt():
     data_path = 'faces/'
