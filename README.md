@@ -34,15 +34,10 @@
 
 ```bash
 FACIAL AUTHENTICATION SYSTEM
-     ├── .idea
-     |      ├── inspectionProfiles
-     |      |          └── profiles_settings.xml
-     |      ├── HAND GESTURE RECOGNITION.iml
-     |      ├── misc.xml
-     |      └── modules.xml
-     ├── capture.png
-     ├── hand gesture recognition.py
-     └── part1.py
+     ├── GUI.py
+     ├── Recognizer.py
+     ├── face_smaple_collects
+     └── model_training.py
 
 ```                       
 
