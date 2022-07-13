@@ -4,6 +4,7 @@ from tkinter import *
 from PIL import Image,ImageTk
 from winsound import *
 import random
+#CREATED BY BISWARUP BHATTACHARJEE
 from face_smaple_collects import fsc
 from model_traning import mt
 from  Recognizer import recog
