@@ -50,11 +50,10 @@ FACIAL AUTHENTICATION SYSTEM
 
 <div align="center">
 
-<a href="pics/"><img src="pics/" width="400" height= "250"></a> <a href="pics/"><img src="pics/" width="400" height= "250"></a>
+<a href="pics/face.png"><img src="pics/face.png" width="400" height= "250"></a> <a href="pics/face1.png"><img src="pics/face1.png" width="400" height= "250"></a>
 
-<a href="pics/"><img src="pics/" width="400" height= "250"></a> <a href="pics/"><img src="pics/" width="400" height= "250"></a>
+<a href="pics/face2.png"><img src="pics/face2.png" width="400" height= "250"></a> <a href="pics/face3.png"><img src="pics/face3.png" width="400" height= "250"></a>
 
-<a href="pics/"><img src="pics/" width="400" height= "250"></a> <a href="pics/"><img src="pics/" width="400" height= "250"></a>
 
 </div>
 
